@@ -1,2 +1,2 @@
 # Tableau-Project
-This is a tableau project of Electrical Vehicle Data analysis.
+This is a Tableau Project of Electrical Vehicle Data analysis.

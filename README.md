@@ -1,2 +1,2 @@
 # Tableau-Project
-This is a Tableau Project of Electrical Vehicle Data analysis.
+This project focuses on exploring and analyzing Electric Vehicle (EV) data to provide insights into market trends and consumer preferences. The Tableau’s visual analytics capabilities to create meaningful visualizations for better understanding. The primary goal of the project is to analyze the growing trend of electric vehicles, identify key patterns in adoption, and provide actionable insights to stakeholders such as businesses, and consumers.
